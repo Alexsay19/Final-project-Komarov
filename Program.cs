@@ -31,14 +31,8 @@ void PrintArray(string[] Array)
         Console.WriteLine("Элементов не найдено!");
     }
     }
-
-  
-
-
-
-
-
 }
+
 void FillArray(string[] Array)
 {
     for (int i = 0; i < Array.Length; i++)
