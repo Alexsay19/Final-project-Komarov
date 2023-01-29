@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "final project Komarov 28.01.23/1.0.0": {
+        "runtime": {
+          "final project Komarov 28.01.23.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "final project Komarov 28.01.23/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\final project Komarov 28.01.23\bin\Debug\net6.0\final project Komarov 28.01.23.exe
+D:\final project Komarov 28.01.23\bin\Debug\net6.0\final project Komarov 28.01.23.deps.json
+D:\final project Komarov 28.01.23\bin\Debug\net6.0\final project Komarov 28.01.23.runtimeconfig.json
+D:\final project Komarov 28.01.23\bin\Debug\net6.0\final project Komarov 28.01.23.dll
+D:\final project Komarov 28.01.23\bin\Debug\net6.0\final project Komarov 28.01.23.pdb
+D:\final project Komarov 28.01.23\obj\Debug\net6.0\final project Komarov 28.01.23.csproj.AssemblyReference.cache
+D:\final project Komarov 28.01.23\obj\Debug\net6.0\final project Komarov 28.01.23.GeneratedMSBuildEditorConfig.editorconfig
+D:\final project Komarov 28.01.23\obj\Debug\net6.0\final project Komarov 28.01.23.AssemblyInfoInputs.cache
+D:\final project Komarov 28.01.23\obj\Debug\net6.0\final project Komarov 28.01.23.AssemblyInfo.cs
+D:\final project Komarov 28.01.23\obj\Debug\net6.0\final project Komarov 28.01.23.csproj.CoreCompileInputs.cache
+D:\final project Komarov 28.01.23\obj\Debug\net6.0\final project Komarov 28.01.23.dll
+D:\final project Komarov 28.01.23\obj\Debug\net6.0\refint\final project Komarov 28.01.23.dll
+D:\final project Komarov 28.01.23\obj\Debug\net6.0\final project Komarov 28.01.23.pdb
+D:\final project Komarov 28.01.23\obj\Debug\net6.0\final project Komarov 28.01.23.genruntimeconfig.cache
+D:\final project Komarov 28.01.23\obj\Debug\net6.0\ref\final project Komarov 28.01.23.dll
